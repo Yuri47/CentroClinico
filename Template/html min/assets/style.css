@@ -4131,7 +4131,7 @@ body {
 }
 .cid-qAdV71PQxi .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: rgba(80, 80, 80, 0.5);
   transition: none;
   min-height: 77px;
 }
