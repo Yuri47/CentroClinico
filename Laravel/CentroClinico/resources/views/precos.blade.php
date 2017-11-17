@@ -56,47 +56,70 @@
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Obtenção 1ª CNH ( Categoria B – Automóvel )</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Obtenção 1ª CNH ( Categoria A – Moto )</td><td class="body-item mbr-fonts-style display-7">603,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Obtenção 1ª CNH ( Categoria A – Moto )</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Obtenção 1ª CNH ( Categoria B – Automóvel )</td><td class="body-item mbr-fonts-style display-7">618,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Obtenção 1ª CNH ( Categoria AB – Automóvel + Moto )</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Obtenção 1ª CNH ( Categoria AB – Automóvel + Moto )</td><td class="body-item mbr-fonts-style display-7">673,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Renovação CNH do DF</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Renovação CNH PESSOAL DF</td><td class="body-item mbr-fonts-style display-7">308,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Renovação CNH de Outros Estados</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Renovação CNH PROFISSIONAL DF</td><td class="body-item mbr-fonts-style display-7">483,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Renovação CNH com Atividade Remunerada</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Acréscimo (PESSOAL) A</td><td class="body-item mbr-fonts-style display-7">393,08</td></tr><tr>
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7">Acréscimo (PESSOAL) B</td><td class="body-item mbr-fonts-style display-7">568,08</td></tr><tr>
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7">Acréscimo (PROFISSIONAL) A</td><td class="body-item mbr-fonts-style display-7">408,08</td></tr><tr>
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7">Acréscimo (PROFISSIONAL) A</td><td class="body-item mbr-fonts-style display-7">583,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Adição de Categoria A (Moto)</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Troca com Adição (PESSOAL) DF</td><td class="body-item mbr-fonts-style display-7">558,08</td></tr><tr>
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7">Troca com Adição (PROFISSIONAL) DF</td><td class="body-item mbr-fonts-style display-7">733,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Trocar para categoria C, D e E</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Trocar de Categoria (PESSOAL) DF</td><td class="body-item mbr-fonts-style display-7">408,08</td></tr><tr>
+                
+                
+                
+              <td class="body-item mbr-fonts-style display-7">Trocar de Categoria (PROFISSIONAL) DF</td><td class="body-item mbr-fonts-style display-7">583,08</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Adição de EAR (Exercício de Atividade Remunerada)</td><td class="body-item mbr-fonts-style display-7">500,00</td></tr></tbody>
+              <td class="body-item mbr-fonts-style display-7">Alteração para uso PROFISSIONAL</td><td class="body-item mbr-fonts-style display-7">368,00</td></tr></tbody>
+              
+              
+              
           </table>
         </div>
         <div class="container table-info-container">
