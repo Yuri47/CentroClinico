@@ -37,7 +37,7 @@
                             Documentos para renovação, adição ou troca de categoria</h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                             01 foto 3x4&nbsp;recente, colorida, com fundo branco.<br>Carteira de Identidade ou documento equivalente (original e cópia).<br>CNH - Carteira Nacional de Habilitação (original e cópia).<br>CPF - Cadastro de Pessoa Física (original e cópia).<br></p>
-                        <div class="mbr-section-btn"><a class="btn btn-md btn-black-outline display-4" href="valores-dos-servicos"><span class="mbri-cash mbr-iconfont mbr-iconfont-btn"></span>TABELA DE PREÇOS</a></div>
+                         
                     </div>
                 </div>
             </div>

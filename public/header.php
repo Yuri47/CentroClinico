@@ -75,9 +75,7 @@ https://www.facebook.com/yuri.alexs
                         Informações</a>
                 </li><li class="nav-item"><a class="nav-link link text-white display-4" href="#footer2-b"><span class="mbri-mobile mbr-iconfont mbr-iconfont-btn"></span>
                         
-                        Contato</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="valores-dos-servicos"><span class="mbri-cash mbr-iconfont mbr-iconfont-btn"></span>
-                        
-                        Preços</a></li></ul>
+                        Contato</a></li> </ul>
             
         </div>
     </nav>
@@ -96,7 +94,7 @@ https://www.facebook.com/yuri.alexs
                     CENTRO CLÍNICO<br>SANTA MARIA</h1>
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5"><?php echo $phone1; ?><br>CL 214, Lote D, Loja 02-A em frente ao Shopping de Santa Maria<br></p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-white-outline display-4" href="valores-dos-servicos"><span class="mbri-cash mbr-iconfont mbr-iconfont-btn"></span>TABELA DE PREÇOS</a></div>
+                 
             </div>
         </div>
     </div>
